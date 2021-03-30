@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhanghairon.github.io</id>
     <title>Gridea</title>
-    <updated>2021-03-30T01:31:10.967Z</updated>
+    <updated>2021-03-30T09:06:40.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhanghairon.github.io"/>
     <link rel="self" href="https://zhanghairon.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://zhanghairon.github.io/images/avatar.png</logo>
     <icon>https://zhanghairon.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[前言]]></title>
+        <id>https://zhanghairon.github.io/post/qian-yan/</id>
+        <link href="https://zhanghairon.github.io/post/qian-yan/">
+        </link>
+        <updated>2021-03-30T09:06:26.000Z</updated>
+        <content type="html"><![CDATA[<p>为什么有这样的需求？平常也会自己写写博客，更新更新文章，在接触了markdown之后，基本上所有文章都是用markdown语法写的了。在利用markdown进行文章书写的时候有一点比较烦，就是插入图片的问题。不是说插入图片的语法复杂而是国内免费好用的图床比较少。在之前一段时间有用过GitHub的仓库搭建过图床，但是访问速度一直感人，特别是用Typora进行实时预览时基本上都显示不出来。然后就先到了国内的同类平台Gitee码云，结合一直用的很顺手的图床上传工具PicGo搭建自己的免费图床。</p>
+<p>准备<br>
+首先需要去码云注册一个账号，并新建一个仓库。接着下载PicGO并安装好。</p>
+<p>码云：https://gitee.com/</p>
+<p>PicGo：https://picgo.github.io/PicGo-Doc/zh/guide/</p>
+<p>过程<br>
+点击左下方的插件设置。<br>
+作者：爱学习的咸鱼君<br>
+https://www.bilibili.com/read/cv5074912/<br>
+出处： bilibili</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zhanghairon.github.io/post/hello-gridea/</id>
