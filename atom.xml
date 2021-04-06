@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhanghairon.github.io</id>
     <title>Gridea</title>
-    <updated>2021-04-03T13:05:52.071Z</updated>
+    <updated>2021-04-06T04:46:08.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhanghairon.github.io"/>
     <link rel="self" href="https://zhanghairon.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://zhanghairon.github.io/images/avatar.png</logo>
     <icon>https://zhanghairon.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://zhanghairon.github.io/post/ce-shi/</id>
+        <link href="https://zhanghairon.github.io/post/ce-shi/">
+        </link>
+        <updated>2021-04-06T04:45:17.000Z</updated>
+        <content type="html"><![CDATA[<p>https://thoughts.teambition.com/share/606be740e561f6004634fed1#title=【示例】灵感笔记</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用cFosSpeed减少你的ping - 互联网加速器！]]></title>
         <id>https://zhanghairon.github.io/post/large-rectangle-wang-luo-zhi-liang-jia-su-qi/</id>
